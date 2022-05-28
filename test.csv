@@ -1,0 +1,6 @@
+Exchange,Class,API Code,Base Asset,Base Asset class,Quote Asset,Quote Asset class,Data Feed Code,First Trade Date,Last Trade Date,FIGI Pair,FIGI Instrument,Trades Count
+Bittrex (btrx),spot,btc-usdt,btc,cryptocurrency,usdt,cryptocurrency,BTCUSDT,2017-08-21 14:07:39 +0000 UTC,2019-04-20 15:47:26 +0000 UTC,,,2000
+Yobit (yobt),spot,btc-usdt,btc,cryptocurrency,usdt,cryptocurrency,BTCUSDT,2017-08-21 14:07:39 +0000 UTC,2019-04-20 15:47:26 +0000 UTC,,,8000
+Bittrex (btrx),spot,eth-uniswap,eth,cryptocurrency,uniswap,cryptocurrency,ETHUNISWAP,2017-08-10 16:54:21.307 +0000 UTC,2020-06-22 14:38:32.7 +0000 UTC,,,5000
+Bittrex (btrx),spot,usdt-uniswap,usdt,cryptocurrency,uniswap,cryptocurrency,USDTUNISWAP,2017-08-10 16:54:21.307 +0000 UTC,2020-06-22 14:38:32.7 +0000 UTC,,,2000
+Yobit (yobt),spot,usdt-eth,usdt,cryptocurrency,eth,cryptocurrency,USDTETH,2017-08-23 10:37:19 +0000 UTC,2021-02-19 16:56:57 +0000 UTC,,,8000

@@ -1,0 +1,9 @@
+Exchange,Class,API Code,Base Asset,Base Asset class,Quote Asset,Quote Asset class,Data Feed Code,First Trade Date,Last Trade Date,FIGI Pair,FIGI Instrument,Trades Count
+Yobit (yobt),spot,usdt-eth,btc,cryptocurrency,abc,cryptocurrency,USDTETH,2017-08-23 10:37:19 +0000 UTC,2021-02-19 16:56:57 +0000 UTC,,,200
+Yobit (yobt),spot,usdt-eth,btc,cryptocurrency,def,cryptocurrency,USDTETH,2017-08-23 10:37:19 +0000 UTC,2021-02-19 16:56:57 +0000 UTC,,,100
+Yobit (yobt),spot,usdt-eth,btc,cryptocurrency,ghi,cryptocurrency,USDTETH,2017-08-23 10:37:19 +0000 UTC,2021-02-19 16:56:57 +0000 UTC,,,300
+Yobit (yobt),spot,usdt-eth,ghi,cryptocurrency,jhz,cryptocurrency,USDTETH,2017-08-23 10:37:19 +0000 UTC,2021-02-19 16:56:57 +0000 UTC,,,400
+Yobit (yobt),spot,usdt-eth,ghi,cryptocurrency,imz,cryptocurrency,USDTETH,2017-08-23 10:37:19 +0000 UTC,2021-02-19 16:56:57 +0000 UTC,,,50
+Yobit (yobt),spot,usdt-eth,jhz,cryptocurrency,xyz,cryptocurrency,USDTETH,2017-08-23 10:37:19 +0000 UTC,2021-02-19 16:56:57 +0000 UTC,,,500
+Yobit (yobt),spot,usdt-eth,def,cryptocurrency,xyz,cryptocurrency,USDTETH,2017-08-23 10:37:19 +0000 UTC,2021-02-19 16:56:57 +0000 UTC,,,7000
+Yobit (yobt),spot,usdt-eth,xyz,cryptocurrency,pok,cryptocurrency,USDTETH,2017-08-23 10:37:19 +0000 UTC,2021-02-19 16:56:57 +0000 UTC,,,2400
